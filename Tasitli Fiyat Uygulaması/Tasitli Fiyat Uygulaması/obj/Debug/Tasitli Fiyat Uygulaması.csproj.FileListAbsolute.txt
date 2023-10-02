@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\bin\Debug\Tasitli Fiyat Uygulaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\bin\Debug\Tasitli Fiyat Uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\bin\Debug\Tasitli Fiyat Uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli Fiyat Uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli Fiyat Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli_Fiyat_Uygulaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli_Fiyat_Uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli Fiyat Uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli Fiyat Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli Fiyat Uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Tasitli Fiyat Uygulaması\Tasitli Fiyat Uygulaması\obj\Debug\Tasitli Fiyat Uygulaması.pdb
